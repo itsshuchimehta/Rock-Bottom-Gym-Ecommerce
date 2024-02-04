@@ -1,5 +1,4 @@
 # Rock-Bottom Gym - Full Stack Development Project
-### Duration: September 2022 - December 2022
 
 ## Project Overview
 In this project, I undertook the challenge of developing a comprehensive, full-stack website for Rock-Bottom Gym. The aim was to create a dynamic and engaging platform that resonates with the gym's clientele, providing them with an interactive and user-friendly online experience.
